@@ -1,0 +1,23 @@
+{
+  "name": "materials-backgrounds",
+  "homepage": "https://github.com/cssberries/materials-backgrounds",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Materials system",
+  "main": "main.less",
+  "keywords": [
+    "css",
+    "BEM",
+    "ITCSS",
+    "OOCSS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,61 @@
+.bg--black {
+  background-color: black;
+}
+.bg--content {
+  background-color: white;
+}
+.bg--aside {
+  background-color: #f2f2f2;
+}
+.bg--canvas {
+  background-color: #e6e6e6;
+}
+.bg--brand {
+  background-color: #32dc32;
+}
+.bg--primary {
+  background-color: #c80064;
+}
+.bg--secondary {
+  background-color: #820082;
+}
+.bg--tertiary {
+  background-color: #3c1428;
+}
+.bg--error {
+  background-color: #e61414;
+}
+.bg--success {
+  background-color: #32dc32;
+}
+.bg--alert,
+.bg--warning {
+  background-color: #f27800;
+}
+.bg--selected {
+  background-color: #c864c8;
+}
+.bg--info {
+  background-color: #f2f2f2;
+}
+.bg--standout {
+  background-color: #f2f2f2;
+}
+.bg--accent {
+  background-color: #f2f2f2;
+}
+.bg--accent-negative {
+  background-color: #f27800;
+}
+.bg--accent-positive {
+  background-color: #f2f2f2;
+}
+.bg--hover {
+  background-color: #f2f2f2;
+}
+.bg--active {
+  background-color: #f2f2f2;
+}
+.bg--hover--gentle {
+  background-color: #f2f2f2;
+}
